@@ -21,9 +21,7 @@ environment:
    - Run the query
 
 as a result you will have something like this:
-```markdown
 ![Graph Visualization](images/graph.png)
-```
 
 ## 📈 Stability Metrics Calculation
 
@@ -42,6 +40,4 @@ I = Fan-out / (Fan-in + Fan-out)
    - Run the query
 
 as a result you will have something like this:
-```markdown
 ![Graph Visualization](images/table.png)
-```
